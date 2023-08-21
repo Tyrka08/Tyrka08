@@ -1,6 +1,6 @@
 ### Olá, meu nome é Mateus Tyrka e tenho 19 anos!
 
-- 📚 Estou fazendo Sistemas de informação na UVV (2° periodo)
+- 📚 Estou cursando Sistemas de informação na UVV (2° periodo)
 - 👨🏻‍💻 Aprofundando estudos em Python, SQL e JavaScript
 - 🔙 Apaixonado por Backend
 

@@ -4,7 +4,6 @@
 - 👨🏻‍💻 Aprofundando estudos em Python, SQL, JavaScript e C#
 - 🔙 Apaixonado por Backend
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyrka08&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyrka08&show_icons=true&theme=dracula)
 

@@ -1,4 +1,4 @@
-### olá, meu nome é mateus tyrka e tenho 19 anos!
+### olá, meu nome é mateus tyrka
 
 - Estou cursando Sistemas de informação na UVV (2° periodo)
 - Aprofundando estudos em Python, SQL, JavaScript e C#

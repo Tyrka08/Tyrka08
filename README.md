@@ -5,7 +5,7 @@
 - 🔙 Apaixonado por Backend
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyrka08&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyrka08&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

@@ -1,9 +1,7 @@
-### Olá, meu nome é Mateus Tyrka e tenho 19 anos!
+### olá, meu nome é mateus tyrka e tenho 19 anos!
 
-- 📚 Estou cursando Sistemas de informação na UVV (2° periodo)
-- 👨🏻‍💻 Aprofundando estudos em Python, SQL, JavaScript e C#
-- 🔙 Apaixonado por Backend
-
+- Estou cursando Sistemas de informação na UVV (2° periodo)
+- Aprofundando estudos em Python, SQL, JavaScript e C#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyrka08&show_icons=true&theme=dark)
 

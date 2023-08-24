@@ -1,11 +1,13 @@
 ### olá, meu nome é mateus tyrka
 
 - Estou cursando Sistemas de informação na UVV (2° periodo)
-- Aprofundando estudos em Python, SQL, JavaScript e C#
+- Aprofundando estudos em Data Science- Python, SQL, JavaScript e C#
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tyrka08&theme=black-ice)](https://git.io/streak-stats)
 
-<img margin-left="30%" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyrka08&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyrka08&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

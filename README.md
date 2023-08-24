@@ -3,7 +3,7 @@
 - Estou cursando Sistemas de informação na UVV (2° periodo)
 - Aprofundando estudos em Python, SQL, JavaScript e C#
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyrka08&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tyrka08&theme=blueberry-duo)](https://git.io/streak-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

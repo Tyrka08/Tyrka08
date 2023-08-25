@@ -1,4 +1,4 @@
-### olá, meu nome é mateus tyrka
+### Olá, meu nome é Mateus Tyrka
 
 - Estou cursando Sistemas de informação na UVV (2° periodo)
 - Aprofundando estudos em Data Science- Python, SQL, JavaScript e C#

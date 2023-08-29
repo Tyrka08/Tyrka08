@@ -1,7 +1,7 @@
 ### Olá, meu nome é Mateus Tyrka
 
 - Estou cursando Sistemas de informação na UVV (2° periodo)
-- Aprofundando estudos em Data Science- Python, SQL, JavaScript e C#
+- Aprofundando estudos em Back End- Python, JavaScript, SQL e C
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tyrka08&theme=black-ice)](https://git.io/streak-stats)

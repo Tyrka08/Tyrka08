@@ -1,4 +1,4 @@
-### Olá, meu nome é Mateus Tyrk
+### Olá, meu nome é Mateus Tyrka
 
 - Estou cursando Sistemas de informação na UVV (2° periodo)
 - Aprofundando estudos em Back End- Python, JavaScript, SQL e C
